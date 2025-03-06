@@ -1,5 +1,7 @@
 payload:
   - '3dns-1.adobe.com'
+  - '51cg1.com'
+  - '51cg.fun'
   - '3dns-2.adobe.com'
   - '3dns-3.adobe.com'
   - '3dns-4.adobe.com'
